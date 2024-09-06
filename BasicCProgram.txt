@@ -1,0 +1,72 @@
+Single Line comments:   
+
+
+	//this is header files
+	
+
+Multiple line comments: 
+
+      /*	
+	this is
+	header 
+	file
+      */
+
+
+
+
+
+Example Program: 
+
+
+
+//Documentation
+
+/*
+	name : Prachi
+	DOC : 09-06-24
+	Purpose : Basic of C 
+
+*/
+
+
+
+
+
+
+Link Section: 
+
+#include<filename>
+
+
+Example: 
+
+#include<stdio.h>
+#include<conio.h>
+
+
+stdio: standard input output
+
+	- printf
+	- scanf
+
+
+
+conio: console input output
+
+
+	- clrscr
+	- getch
+
+
+
+
+
+
+printf() : This function is used to print or show the text in the output which is written in the printf function (statement)
+
+
+Syntax: way of writing 
+
+
+printf("Hello this is prachi here");
