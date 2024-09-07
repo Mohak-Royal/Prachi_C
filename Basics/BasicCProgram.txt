@@ -61,7 +61,7 @@ conio: console input output
 
 
 
-
+Stdio:
 
 printf() : This function is used to print or show the text in the output which is written in the printf function (statement)
 
@@ -70,3 +70,14 @@ Syntax: way of writing
 
 
 printf("Hello this is prachi here");
+
+
+
+
+
+Conio: 
+
+getch() :  It is used to hold the output/console screen. (it is originally used to take input)
+
+
+clrscr() : it is used to clear the output screen (previous output).

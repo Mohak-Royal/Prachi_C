@@ -1,0 +1,34 @@
+Escape Sequence Character :   \
+
+Requirement output:
+
+Hello there my name is "mohak"
+
+Solution: 
+
+printf("Hello there my name is \"mohak\"")
+
+output :
+
+
+Hello there my name is "mohak"
+
+
+
+
+Escape Sequence : 
+
+\n : it is used to move the cursor to the new line
+\t : it is used to give space(8 space / 1 tab)
+
+
+
+
+Sample Output: 
+
+
+Hello There,
+My name is Mohak
+
+
+
